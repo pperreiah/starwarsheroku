@@ -15,7 +15,5 @@
     "watch": "nodemon server.js"
   },
   "author": "",
-  "license": "ISC",
-  "scripts": {
-    "start": "node server.js"
-}
+  "license": "ISC"
+
