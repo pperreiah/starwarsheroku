@@ -16,5 +16,8 @@
   },
   "author": "",
   "license": "ISC"
-}
+},
+     "scripts": {
+       "start": "node server.js"
+     }
 ```
